@@ -3,8 +3,8 @@
   "releasedAt": "2026-10-12",
   "beta": true,
   "downloads": {
-    "windows": { "url": "https://github.com/sianoint/miseumdochi-downloads/releases/download/untagged-36fe348d24723bb0b810/Miseumdochi-0.4.0-win-x64.zip", "label": "Windows 64비트", "filename": "Miseumdochi-0.4.0-win-x64.zip" },
-    "mac": { "url": "https://github.com/sianoint/miseumdochi-downloads/releases/download/untagged-36fe348d24723bb0b810/Miseumdochi-0.4.0-mac-arm64.zip", "label": "Mac · Apple Silicon", "filename": "Miseumdochi-0.4.0-mac-arm64.zip" }
+    "windows": { "url": "https://github.com/sianoint/miseumdochi-downloads/releases/download/v0.4.0_beta/Miseumdochi-0.4.0-win-x64.zip", "label": "Windows 64비트", "filename": "Miseumdochi-0.4.0-win-x64.zip" },
+    "mac": { "url": "https://github.com/sianoint/miseumdochi-downloads/releases/download/v0.4.0_beta/Miseumdochi-0.4.0-mac-arm64.zip", "label": "Mac · Apple Silicon", "filename": "Miseumdochi-0.4.0-mac-arm64.zip" }
   },
   "newsletter": { "enabled": false, "turnstileSiteKey": "", "consentVersion": "2026-10-12-v1" },
   "operator": { "name": "정시안", "contactEmail": "sianoint14@gmail.com" }
